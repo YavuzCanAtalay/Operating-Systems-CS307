@@ -1,0 +1,7 @@
+SUShell$ (tr a-z A-Z)_1 < input2.txt
+ALPHA
+BETA
+GAMMASUShell$ cat | (tail -n 1)_3 < input2.txt
+gammaSUShell$ (head -n 2 | tr a-z A-Z)_1 < input2.txt > output2.txt
+SUShell$ :q
+Exiting shell...

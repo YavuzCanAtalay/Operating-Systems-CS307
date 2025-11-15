@@ -1,0 +1,18 @@
+SUShell$ echo 'hello' | tr a-z A-Z
+HELLO
+SUShell$ seq 1 3 | wc -l | tr -d ' '
+3
+SUShell$ uname -s | tr a-z A-Z
+LINUX
+SUShell$ yes OK | head -n 3 | tail -n 1
+OK
+SUShell$ echo 'a,b,c' | cut -d, -f2
+b
+SUShell$ echo 'Hello World' | tr A-Za-z N-ZA-Mn-za-m
+Uryyb Jbeyq
+SUShell$ echo 'abcdef' | rev
+fedcba
+SUShell$ seq 1 3 | sort -r | paste -sd- -
+3-2-1
+SUShell$ :q
+Exiting shell...

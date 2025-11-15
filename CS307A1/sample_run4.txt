@@ -1,0 +1,14 @@
+SUShell$ (echo 'Hello World' | tr A-Za-z N-ZA-Mn-za-m)_2
+Uryyb Jbeyq
+SUShell$ echo 'abcd' | (rev)_2
+abcd
+SUShell$ echo 'abcd' | (rev)_1
+dcba
+SUShell$ (yes OK | head -n 3)_2 | tail -n 1
+OK
+SUShell$ echo 'a,b,c' | (tr , " ")_1 | wc -w | tr -d ' '    
+3
+SUShell$ (seq 1 5 | paste -sd- - | rev)_2
+5-4-3-2-1
+SUShell$ :q
+Exiting shell...

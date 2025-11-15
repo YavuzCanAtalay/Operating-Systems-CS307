@@ -1,0 +1,12 @@
+SUShell$ echo "hello cs307"
+hello cs307
+SUShell$ seq 1 3
+1
+2
+3
+SUShell$ uname -s
+Linux
+SUShell$ printf "dont try a new line"
+dont try a new lineSUShell$
+SUShell$ :q
+Exiting shell...

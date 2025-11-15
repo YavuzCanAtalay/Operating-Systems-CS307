@@ -1,0 +1,8 @@
+SUShell$ tr a-z A-Z < input1.txt
+RED
+GREEN
+BLUESUShell$ cat | wc -l | tr -d ' ' < input1.txt
+2
+SUShell$ head -n 2 | tail -n 1 | tr a-z A-Z < input1.txt > output1.txt
+SUShell$ :q
+Exiting shell...
