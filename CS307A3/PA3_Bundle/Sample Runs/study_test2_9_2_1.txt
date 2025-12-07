@@ -1,0 +1,30 @@
+Thread ID: 140015822911040 | Status: Arrived at the IC.
+Thread ID: 140015822911040 | Status: Only 1 students inside, studying individually.
+Thread ID: 140015814518336 | Status: Arrived at the IC.
+Thread ID: 140015814518336 | Status: Only 2 students inside, studying individually.
+Thread ID: 140015822911040 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 140015814518336 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 140015806125632 | Status: Arrived at the IC.
+Thread ID: 140015806125632 | Status: Only 1 students inside, studying individually.
+Thread ID: 140015797732928 | Status: Arrived at the IC.
+Thread ID: 140015797732928 | Status: Only 2 students inside, studying individually.
+Thread ID: 140015806125632 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 140015780947520 | Status: Arrived at the IC.
+Thread ID: 140015780947520 | Status: Only 2 students inside, studying individually.
+Thread ID: 140015789340224 | Status: Arrived at the IC.
+Thread ID: 140015789340224 | Status: There are enough students, the study session is starting.
+Thread ID: 140015772554816 | Status: Arrived at the IC.
+Thread ID: 140015789340224 | Status: Session tutor speaking, the session is over.
+Thread ID: 140015797732928 | Status: I am a student and I am leaving.
+Thread ID: 140015780947520 | Status: I am a student and I am leaving.
+Thread ID: 140015789340224 | Status: All students have left, the new students can come.
+Thread ID: 140015772554816 | Status: Only 1 students inside, studying individually.
+Thread ID: 140015764162112 | Status: Arrived at the IC.
+Thread ID: 140015764162112 | Status: Only 2 students inside, studying individually.
+Thread ID: 140015755769408 | Status: Arrived at the IC.
+Thread ID: 140015755769408 | Status: There are enough students, the study session is starting.
+Thread ID: 140015755769408 | Status: Session tutor speaking, the session is over.
+Thread ID: 140015772554816 | Status: I am a student and I am leaving.
+Thread ID: 140015764162112 | Status: I am a student and I am leaving.
+Thread ID: 140015755769408 | Status: All students have left, the new students can come.
+The Main terminates.

@@ -1,0 +1,13 @@
+Thread ID: 139632560510528 | Status: Arrived at the IC.
+Thread ID: 139632560510528 | Status: Only 1 students inside, studying individually.
+Thread ID: 139632543725120 | Status: Arrived at the IC.
+Thread ID: 139632543725120 | Status: Only 2 students inside, studying individually.
+Thread ID: 139632535332416 | Status: Arrived at the IC.
+Thread ID: 139632535332416 | Status: Only 3 students inside, studying individually.
+Thread ID: 139632552117824 | Status: Arrived at the IC.
+Thread ID: 139632552117824 | Status: Only 4 students inside, studying individually.
+Thread ID: 139632560510528 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139632543725120 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139632535332416 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139632552117824 | Status: No group study formed while I was waiting, I am leaving.
+The Main terminates.

@@ -1,0 +1,37 @@
+Thread ID: 139753215174208 | Status: Arrived at the IC.
+Thread ID: 139753215174208 | Status: Only 1 students inside, studying individually.
+Thread ID: 139753198388800 | Status: Arrived at the IC.
+Thread ID: 139753198388800 | Status: Only 2 students inside, studying individually.
+Thread ID: 139753215174208 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753068426816 | Status: Arrived at the IC.
+Thread ID: 139753198388800 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753068426816 | Status: Only 1 students inside, studying individually.
+Thread ID: 139753206781504 | Status: Arrived at the IC.
+Thread ID: 139753206781504 | Status: Only 2 students inside, studying individually.
+Thread ID: 139753189996096 | Status: Arrived at the IC.
+Thread ID: 139753189996096 | Status: Only 3 students inside, studying individually.
+Thread ID: 139753068426816 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753206781504 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753181603392 | Status: Arrived at the IC.
+Thread ID: 139753181603392 | Status: Only 2 students inside, studying individually.
+Thread ID: 139753189996096 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753173210688 | Status: Arrived at the IC.
+Thread ID: 139753173210688 | Status: Only 2 students inside, studying individually.
+Thread ID: 139753164817984 | Status: Arrived at the IC.
+Thread ID: 139753164817984 | Status: Only 3 students inside, studying individually.
+Thread ID: 139753181603392 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753156425280 | Status: Arrived at the IC.
+Thread ID: 139753156425280 | Status: Only 3 students inside, studying individually.
+Thread ID: 139753173210688 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753148032576 | Status: Arrived at the IC.
+Thread ID: 139753148032576 | Status: Only 3 students inside, studying individually.
+Thread ID: 139753164817984 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753156425280 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753060034112 | Status: Arrived at the IC.
+Thread ID: 139753060034112 | Status: Only 2 students inside, studying individually.
+Thread ID: 139753148032576 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753051641408 | Status: Arrived at the IC.
+Thread ID: 139753051641408 | Status: Only 2 students inside, studying individually.
+Thread ID: 139753060034112 | Status: No group study formed while I was waiting, I am leaving.
+Thread ID: 139753051641408 | Status: No group study formed while I was waiting, I am leaving.
+The Main terminates.

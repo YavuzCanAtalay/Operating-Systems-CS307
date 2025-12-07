@@ -1,0 +1,30 @@
+Thread ID: 140374438008384 | Status: Arrived at the IC.
+Thread ID: 140374438008384 | Status: Only 1 students inside, studying individually.
+Thread ID: 140374429615680 | Status: Arrived at the IC.
+Thread ID: 140374429615680 | Status: Only 2 students inside, studying individually.
+Thread ID: 140374421222976 | Status: Arrived at the IC.
+Thread ID: 140374421222976 | Status: Only 3 students inside, studying individually.
+Thread ID: 140374412830272 | Status: Arrived at the IC.
+Thread ID: 140374412830272 | Status: There are enough students, the study session is starting.
+Thread ID: 140374404437568 | Status: Arrived at the IC.
+Thread ID: 140374396044864 | Status: Arrived at the IC.
+Thread ID: 140374387652160 | Status: Arrived at the IC.
+Thread ID: 140374379259456 | Status: Arrived at the IC.
+Thread ID: 140374370866752 | Status: Arrived at the IC.
+Thread ID: 140374438008384 | Status: I am a student and I am leaving.
+Thread ID: 140374412830272 | Status: I am a student and I am leaving.
+Thread ID: 140374429615680 | Status: I am a student and I am leaving.
+Thread ID: 140374421222976 | Status: I am a student and I am leaving.
+Thread ID: 140374421222976 | Status: All students have left, the new students can come.
+Thread ID: 140374404437568 | Status: Only 1 students inside, studying individually.
+Thread ID: 140374379259456 | Status: Only 2 students inside, studying individually.
+Thread ID: 140374396044864 | Status: Only 3 students inside, studying individually.
+Thread ID: 140374387652160 | Status: There are enough students, the study session is starting.
+Thread ID: 140374404437568 | Status: I am a student and I am leaving.
+Thread ID: 140374387652160 | Status: I am a student and I am leaving.
+Thread ID: 140374379259456 | Status: I am a student and I am leaving.
+Thread ID: 140374396044864 | Status: I am a student and I am leaving.
+Thread ID: 140374396044864 | Status: All students have left, the new students can come.
+Thread ID: 140374370866752 | Status: Only 1 students inside, studying individually.
+Thread ID: 140374370866752 | Status: No group study formed while I was waiting, I am leaving.
+The Main terminates.
