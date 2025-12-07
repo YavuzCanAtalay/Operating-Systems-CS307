@@ -1,0 +1,35 @@
+Initialized 1 processor_queues
+Read file, starting multithreaded execution
+Core 0 queue [size=7]: ATask5(170) -> ATask8(170) -> ATask2(240) -> ATask4(320) -> ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Finished task ATask7
+Core 0 queue [size=6]: ATask8(170) -> ATask2(240) -> ATask4(320) -> ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Finished task ATask5
+Core 0 queue [size=5]: ATask2(240) -> ATask4(320) -> ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Finished task ATask8
+Core 0 queue [size=4]: ATask4(320) -> ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Executed task ATask2, it has 40 ms remaining
+Core 0 queue [size=4]: ATask4(320) -> ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Finished task ATask2
+Core 0 queue [size=3]: ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Executed task ATask4, it has 120 ms remaining
+Core 0 queue [size=3]: ATask6(400) -> ATask1(580) -> ATask3(790)
+Processor 0: Finished task ATask4
+Core 0 queue [size=2]: ATask1(580) -> ATask3(790)
+Processor 0: Executed task ATask6, it has 200 ms remaining
+Core 0 queue [size=2]: ATask1(580) -> ATask3(790)
+Processor 0: Finished task ATask6
+Core 0 queue [size=1]: ATask3(790)
+Processor 0: Executed task ATask1, it has 380 ms remaining
+Core 0 queue [size=1]: ATask3(790)
+Processor 0: Executed task ATask1, it has 170 ms remaining
+Core 0 queue [size=1]: ATask3(790)
+Processor 0: Finished task ATask1
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task ATask3, it has 590 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task ATask3, it has 380 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task ATask3, it has 159 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Finished task ATask3
+All tasks finished, joining threads

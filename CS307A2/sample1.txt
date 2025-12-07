@@ -1,0 +1,377 @@
+Initialized 8 processor_queues
+Read file, starting multithreaded execution
+Core 0 queue [size=6]: ATask2(390) -> ATask4(640) -> ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Finished task ATask1
+Core 1 queue [size=8]: BTask7(500) -> BTask3(510) -> BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask8, it has 90 ms remaining
+Core 2 queue [size=6]: CTask7(520) -> CTask1(620) -> CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask6, it has 310 ms remaining
+Core 3 queue [size=5]: DTask6(60) -> DTask4(80) -> DTask5(150) -> DTask2(330) -> DTask3(940)
+Processor 3: Finished task DTask1
+Core 4 queue [size=9]: ETask5(120) -> ETask1(220) -> ETask9(270) -> ETask4(360) -> ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask2
+Core 5 queue [size=8]: FTask4(190) -> FTask9(190) -> FTask5(300) -> FTask7(340) -> FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Finished task FTask1
+Core 6 queue [size=6]: GTask6(160) -> GTask7(280) -> GTask1(370) -> GTask4(430) -> GTask3(480) -> GTask2(690)
+Processor 6: Finished task GTask5
+Core 7 queue [size=8]: HTask8(90) -> HTask4(140) -> HTask9(330) -> HTask6(520) -> HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Finished task HTask2
+Core 2 queue [size=6]: CTask7(520) -> CTask1(620) -> CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask6, it has 100 ms remaining
+Core 1 queue [size=8]: BTask7(500) -> BTask3(510) -> BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Finished task BTask8
+Core 0 queue [size=5]: ATask4(640) -> ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Executed task ATask2, it has 190 ms remaining
+Core 3 queue [size=4]: DTask4(80) -> DTask5(150) -> DTask2(330) -> DTask3(940)
+Processor 3: Finished task DTask6
+Core 4 queue [size=8]: ETask1(220) -> ETask9(270) -> ETask4(360) -> ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask5
+Core 5 queue [size=7]: FTask9(190) -> FTask5(300) -> FTask7(340) -> FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Finished task FTask4
+Core 6 queue [size=5]: GTask7(280) -> GTask1(370) -> GTask4(430) -> GTask3(480) -> GTask2(690)
+Processor 6: Finished task GTask6
+Core 7 queue [size=7]: HTask4(140) -> HTask9(330) -> HTask6(520) -> HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Finished task HTask8
+Core 0 queue [size=5]: ATask4(640) -> ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Core 3 queue [size=3]: Processor 0: Finished task ATask2
+DTask5(150) -> DTask2(330) -> DTask3(940)
+Processor 3: Finished task DTask4
+Core 1 queue [size=7]: BTask3(510) -> BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask7, it has 300 ms remaining
+Core 2 queue [size=6]: CTask7(520) -> CTask1(620) -> CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Finished task CTask6
+Core 4 queue [size=7]: ETask9(270) -> ETask4(360) -> ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask1, it has 20 ms remaining
+Core 5 queue [size=6]: FTask5(300) -> FTask7(340) -> FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Finished task FTask9
+Core 6 queue [size=4]: GTask1(370) -> GTask4(430) -> GTask3(480) -> GTask2(690)
+Processor 6: Executed task GTask7, it has 80 ms remaining
+Core 7 queue [size=6]: HTask9(330) -> HTask6(520) -> HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Finished task HTask4
+Core 0 queue [size=4]: ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Executed task ATask4, it has 440 ms remaining
+Core 2 queue [size=5]: CTask1(620) -> CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Core 1 queue [size=7]: Processor 2: Executed task CTask7, it has 320 ms remaining
+BTask3(510) -> BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask7, it has 90 ms remaining
+Core 5 queue [size=5]: FTask7(340) -> FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Executed task FTask5, it has 100 ms remaining
+Core 4 queue [size=7]: ETask9(270) -> ETask4(360) -> ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask1
+Core 3 queue [size=2]: DTask2(330) -> DTask3(940)
+Processor 3: Finished task DTask5
+Core 6 queue [size=4]: GTask1(370) -> GTask4(430) -> GTask3(480) -> GTask2(690)
+Processor 6: Finished task GTask7
+Core 7 queue [size=5]: HTask6(520) -> HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask9, it has 130 ms remaining
+Core 0 queue [size=4]: ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Executed task ATask4, it has 230 ms remaining
+Core 2 queue [size=5]: CTask1(620) -> CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask7, it has 110 ms remaining
+Core 3 queue [size=1]: DTask3(940)
+Processor 3: Executed task DTask2, it has 130 ms remaining
+Core 5 queue [size=5]: FTask7(340) -> FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Finished task FTask5
+Core 1 queue [size=7]: BTask3(510) -> BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Finished task BTask7
+Core 4 queue [size=6]: ETask4(360) -> ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask9, it has 70 ms remaining
+Core 6 queue [size=3]: GTask4(430) -> GTask3(480) -> GTask2(690)
+Processor 6: Executed task GTask1, it has 170 ms remaining
+Core 7 queue [size=5]: HTask6(520) -> HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Finished task HTask9
+Core 3 queue [size=1]: DTask3(940)
+Core 0 queue [size=4]: ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 3: Finished task DTask2
+Processor 0: Executed task ATask4, it has 9 ms remaining
+Core 2 queue [size=5]: CTask1(620) -> CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Finished task CTask7
+Core 5 queue [size=4]: FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Executed task FTask7, it has 140 ms remaining
+Core 4 queue [size=6]: ETask4(360) -> ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask9
+Core 1 queue [size=6]: BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Core 6 queue [size=3]: GTask4(430) -> GTask3(480) -> GTask2(690)
+Processor 1: Executed task BTask3, it has 310 ms remaining
+Processor 6: Finished task GTask1
+Core 7 queue [size=4]: HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask6, it has 320 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task DTask3, it has 740 ms remaining
+Core 5 queue [size=4]: FTask3(440) -> FTask6(480) -> FTask2(950) -> FTask8(990)
+Core 0 queue [size=4]: ATask7(780) -> ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 5: Finished task FTask7
+Processor 0: Finished task ATask4
+Core 7 queue [size=4]: HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask6, it has 110 ms remaining
+Core 2 queue [size=4]: CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask1, it has 420 ms remaining
+Core 1 queue [size=6]: BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask3, it has 100 ms remaining
+Core 4 queue [size=5]: ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask4, it has 160 ms remaining
+Core 6 queue [size=2]: GTask3(480) -> GTask2(690)
+Processor 6: Executed task GTask4, it has 230 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task DTask3, it has 530 ms remaining
+Core 7 queue [size=4]: HTask1(630) -> HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Finished task HTask6
+Core 6 queue [size=2]: GTask3(480) -> GTask2(690)
+Processor 6: Executed task GTask4, it has 20 ms remaining
+Core 5 queue [size=3]: FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Executed task FTask3, it has 240 ms remaining
+Core 0 queue [size=3]: ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Executed task ATask7, it has 580 ms remaining
+Core 2 queue [size=4]: CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask1, it has 210 ms remaining
+Core 4 queue [size=5]: ETask10(570) -> ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask4
+Core 1 queue [size=6]: BTask2(550) -> BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Finished task BTask3
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task DTask3, it has 310 ms remaining
+Core 7 queue [size=3]: HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask1, it has 430 ms remaining
+Core 6 queue [size=2]: GTask3(480) -> GTask2(690)
+Processor 6: Finished task GTask4
+Core 2 queue [size=4]: CTask5(680) -> CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Finished task CTask1
+Core 4 queue [size=4]: ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask10, it has 370 ms remaining
+Core 0 queue [size=3]: ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Executed task ATask7, it has 370 ms remaining
+Core 5 queue [size=3]: FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 5: Executed task FTask3, it has 30 ms remaining
+Core 1 queue [size=5]: BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask2, it has 350 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task DTask3, it has 79 ms remaining
+Core 7 queue [size=3]: HTask5(880) -> HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask1, it has 220 ms remaining
+Core 6 queue [size=1]: GTask2(690)
+Processor 6: Executed task GTask3, it has 280 ms remaining
+Core 4 queue [size=4]: ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Core 5 queue [size=3]: FTask6(480) -> FTask2(950) -> FTask8(990)
+Processor 4: Executed task ETask10, it has 160 ms remaining
+Core 1 queue [size=5]: BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Core 0 queue [size=3]: Processor 5: Finished task FTask3
+Processor 1: Executed task BTask2, it has 140 ms remaining
+ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Executed task ATask7, it has 149 ms remaining
+Core 2 queue [size=3]: CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask5, it has 480 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Finished task DTask3
+Core 4 queue [size=4]: ETask3(700) -> ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask10
+Core 7 queue [size=3]: HTask5(880) -> HTask3(960) -> HTask7(990)
+Core 2 queue [size=3]: CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask5, it has 270 ms remaining
+Processor 7: Finished task HTask1
+Core 0 queue [size=3]: ATask5(830) -> ATask6(850) -> ATask3(940)
+Processor 0: Finished task ATask7
+Core 6 queue [size=1]: GTask2(690)
+Processor 6: Executed task GTask3, it has 70 ms remaining
+Core 5 queue [size=2]: FTask2(950) -> FTask8(990)
+Processor 5: Executed task FTask6, it has 280 ms remaining
+Core 1 queue [size=5]: BTask9(660) -> BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Finished task BTask2
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task ATask3, it has 740 ms remaining
+Core 2 queue [size=3]: CTask3(780) -> CTask4(810) -> CTask2(880)
+Core 6 queue [size=1]: GTask2(690)
+Core 4 queue [size=3]: Processor 6: Finished task GTask3
+ETask7(770) -> Processor 2: Executed task CTask5, it has 49 ms remaining
+ETask6(870) -> ETask8(890)
+Core 1 queue [size=4]: Processor 4: Executed task ETask3, it has 500 ms remaining
+BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask9, it has 460 ms remaining
+Core 5 queue [size=2]: FTask2(950) -> FTask8(990)
+Processor 5: Executed task FTask6, it has 70 ms remaining
+Core 0 queue [size=1]: ATask6(850)
+Processor 0: Executed task ATask5, it has 630 ms remaining
+Core 7 queue [size=2]: HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask5, it has 680 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task ATask3, it has 530 ms remaining
+Core 2 queue [size=3]: CTask3(780) -> CTask4(810) -> CTask2(880)
+Processor 2: Finished task CTask5
+Core 6 queue [size=0]: (empty)
+Processor 6: Executed task GTask2, it has 490 ms remaining
+Core 4 queue [size=3]: ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask3, it has 290 ms remaining
+Core 1 queue [size=4]: BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask9, it has 250 ms remaining
+Core 5 queue [size=2]: FTask2(950) -> FTask8(990)
+Processor 5: Finished task FTask6
+Core 0 queue [size=1]: ATask6(850)
+Processor 0: Executed task ATask5, it has 420 ms remaining
+Core 7 queue [size=2]: HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask5, it has 470 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task ATask3, it has 310 ms remaining
+Core 2 queue [size=2]: CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask3, it has 580 ms remaining
+Core 6 queue [size=0]: (empty)
+Processor 6: Executed task GTask2, it has 280 ms remaining
+Core 4 queue [size=3]: ETask7(770) -> ETask6(870) -> ETask8(890)
+Core 5 queue [size=1]: FTask8(990)
+Processor 4: Executed task ETask3, it has 69 ms remaining
+Processor 5: Executed task FTask2, it has 750 ms remaining
+Core 1 queue [size=4]: BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask9, it has 29 ms remaining
+Core 0 queue [size=1]: ATask6(850)
+Processor 0: Executed task ATask5, it has 199 ms remaining
+Core 7 queue [size=2]: HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask5, it has 249 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task ATask3, it has 79 ms remaining
+Core 2 queue [size=2]: CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask3, it has 370 ms remaining
+Core 6 queue [size=0]: (empty)
+Core 5 queue [size=1]: Processor 6: Executed task GTask2, it has 59 ms remaining
+FTask8(990)
+Processor 5: Executed task FTask2, it has 540 ms remaining
+Core 1 queue [size=4]: BTask1(670) -> BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Finished task BTask9
+Core 4 queue [size=3]: ETask7(770) -> ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask3
+Core 0 queue [size=1]: ATask6(850)
+Processor 0: Finished task ATask5
+Core 7 queue [size=2]: HTask3(960) -> HTask7(990)
+Processor 7: Executed task HTask5, it has 18 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Finished task ATask3
+Core 2 queue [size=2]: CTask4(810) -> CTask2(880)
+Processor 2: Executed task CTask3, it has 149 ms remaining
+Core 6 queue [size=0]: (empty)
+Core 5 queue [size=1]: Processor 6: Finished task GTask2
+FTask8(990)
+Processor 5: Executed task FTask2, it has 320 ms remaining
+Core 1 queue [size=3]: BTask4(670) -> BTask5(760) -> BTask6(890)
+Processor 1: Executed task BTask1, it has 470 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task ATask6, it has 650 ms remaining
+Core 4 queue [size=2]: ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask7, it has 570 ms remaining
+Core 7 queue [size=2]: HTask3(960) -> HTask7(990)
+Processor 7: Finished task HTask5
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task BTask6, it has 690 ms remaining
+Core 2 queue [size=2]: CTask4(810) -> CTask2(880)
+Processor 2: Finished task CTask3
+Core 1 queue [size=2]: BTask4(670) -> BTask5(760)
+Processor 1: Executed task BTask1, it has 260 ms remaining
+Core 5 queue [size=1]: FTask8(990)
+Core 6 queue [size=0]: Processor 5: Executed task FTask2, it has 89 ms remaining
+(empty)
+Core 0 queue [size=0]: Processor 6: Executed task BTask5, it has 560 ms remaining
+(empty)
+Processor 0: Executed task ATask6, it has 440 ms remaining
+Core 7 queue [size=1]: HTask7(990)
+Processor 7: Executed task HTask3, it has 760 ms remaining
+Core 4 queue [size=2]: ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask7, it has 360 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task BTask6, it has 480 ms remaining
+Core 2 queue [size=1]: CTask2(880)
+Processor 2: Executed task CTask4, it has 610 ms remaining
+Core 1 queue [size=1]: BTask4(670)
+Processor 1: Executed task BTask1, it has 39 ms remaining
+Core 6 queue [size=0]: (empty)
+Core 5 queue [size=1]: FTask8(990)
+Processor 5: Finished task FTask2
+Processor 6: Executed task BTask5, it has 350 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task ATask6, it has 219 ms remaining
+Core 7 queue [size=1]: HTask7(990)
+Processor 7: Executed task HTask3, it has 550 ms remaining
+Core 4 queue [size=2]: ETask6(870) -> ETask8(890)
+Processor 4: Executed task ETask7, it has 139 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task BTask6, it has 260 ms remaining
+Core 2 queue [size=1]: CTask2(880)
+Processor 2: Executed task CTask4, it has 400 ms remaining
+Core 1 queue [size=1]: BTask4(670)
+Processor 1: Finished task BTask1
+Core 6 queue [size=0]: (empty)
+Core 5 queue [size=0]: Processor 6: Executed task BTask5, it has 129 ms remaining
+(empty)
+Processor 5: Executed task FTask8, it has 790 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Finished task ATask6
+Core 7 queue [size=1]: HTask7(990)
+Processor 7: Executed task HTask3, it has 330 ms remaining
+Core 4 queue [size=2]: ETask6(870) -> ETask8(890)
+Processor 4: Finished task ETask7
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task BTask6, it has 29 ms remaining
+Core 2 queue [size=1]: CTask2(880)
+Processor 2: Executed task CTask4, it has 179 ms remaining
+Core 1 queue [size=0]: (empty)
+Processor 1: Executed task BTask4, it has 470 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task CTask2, it has 680 ms remaining
+Core 6 queue [size=0]: (empty)
+Core 5 queue [size=0]: Processor 6: Finished task BTask5
+(empty)
+Processor 5: Executed task FTask8, it has 580 ms remaining
+Core 7 queue [size=1]: HTask7(990)
+Processor 7: Executed task HTask3, it has 99 ms remaining
+Core 4 queue [size=1]: ETask8(890)
+Processor 4: Executed task ETask6, it has 670 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Finished task BTask6
+Core 2 queue [size=0]: (empty)
+Processor 2: Finished task CTask4
+Core 1 queue [size=0]: (empty)
+Processor 1: Executed task BTask4, it has 260 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task CTask2, it has 470 ms remaining
+Core 5 queue [size=0]: (empty)
+Processor 5: Executed task FTask8, it has 360 ms remaining
+Core 6 queue [size=0]: (empty)
+Processor 6: Executed task ETask8, it has 690 ms remaining
+Core 7 queue [size=1]: HTask7(990)
+Processor 7: Finished task HTask3
+Core 4 queue [size=0]: (empty)
+Processor 4: Executed task ETask6, it has 460 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task HTask7, it has 790 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task CTask2, it has 249 ms remaining
+Core 1 queue [size=0]: (empty)
+Processor 1: Executed task BTask4, it has 39 ms remaining
+Core 5 queue [size=0]: (empty)
+Processor 5: Executed task FTask8, it has 129 ms remaining
+Core 6 queue [size=0]: (empty)
+Processor 6: Executed task ETask8, it has 480 ms remaining
+Core 4 queue [size=0]: (empty)
+Processor 4: Executed task ETask6, it has 239 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task HTask7, it has 580 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Executed task CTask2, it has 18 ms remaining
+Core 5 queue [size=0]: (empty)
+Core 1 queue [size=0]: Processor 5: Finished task FTask8
+(empty)
+Processor 1: Finished task BTask4
+Core 6 queue [size=0]: (empty)
+Processor 6: Executed task ETask8, it has 260 ms remaining
+Core 4 queue [size=0]: (empty)
+Processor 4: Executed task ETask6, it has 8 ms remaining
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task HTask7, it has 360 ms remaining
+Core 0 queue [size=0]: (empty)
+Processor 0: Finished task CTask2
+Core 6 queue [size=0]: (empty)
+Processor 6: Executed task ETask8, it has 29 ms remaining
+Core 4 queue [size=0]: (empty)
+Processor 4: Finished task ETask6
+Core 3 queue [size=0]: (empty)
+Processor 3: Executed task HTask7, it has 129 ms remaining
+Core 6 queue [size=0]: (empty)
+Processor 6: Finished task ETask8
+Core 3 queue [size=0]: (empty)
+Processor 3: Finished task HTask7
+All tasks finished, joining threads
